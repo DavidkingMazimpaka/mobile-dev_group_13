@@ -25,7 +25,7 @@ class _SplashState extends State<Splash> {
         body: Center(
             child: Container(
       child: Text(
-        "Happy Visit",
+        "Explorer's Path App",
         style: TextStyle(
           fontSize: 30.0,
           fontWeight: FontWeight.bold,
